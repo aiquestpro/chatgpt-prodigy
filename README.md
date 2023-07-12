@@ -3,7 +3,7 @@
 
 
 <div align="center">
-<h1>AiQUEST Prodigy</h1>
+<h1>ChatGPT Prodigy</h1>
 
 [![Discord](https://img.shields.io/discord/1060110102188797992?color=green&label=Join%20server&logo=discord)]([https://discord.gg/nmCjvyVpnB](https://discord.com/invite/zeGQDm7Kyz)) [![Twitter Follow](https://img.shields.io/twitter/follow/hahahahohohe?label=follow%20me&style=social)](https://twitter.com/ProAiquest)
 
