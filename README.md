@@ -8,11 +8,11 @@
 [![Discord](https://img.shields.io/discord/1060110102188797992?color=green&label=Join%20server&logo=discord)]([https://discord.gg/nmCjvyVpnB](https://discord.com/invite/zeGQDm7Kyz)) [![Twitter Follow](https://img.shields.io/twitter/follow/hahahahohohe?label=follow%20me&style=social)](https://twitter.com/ProAiquest)
 
 
-This browser extension `adds internet access` and `AutoGPT functionaluty` capability to [ChatGPT](https://chat.openai.com/). Get much more relevant and up-to-date answers from the chatbot!
+This browser extension `adds internet access` and `AutoGPT functionality` capability to [ChatGPT](https://chat.openai.com/). Get much more relevant and up-to-date answers from the chatbot!
 
 *** This repository contains code for google chrome extension *** : 
 
-It provides AUTOGPT functionality for FREE on chat.openai.com. Unfortunately due to continuous UI changes made by openai, we are unable to maintain it. It contains few errors, if I can find few contributors, who can fix them, it would be a great contribution. Really looking forward on it!
+It provides AUTOGPT functionality for FREE on chat.openai.com. <strong>Unfortunately</strong> due to continuous UI changes made by openai, we are unable to maintain it. It contains few errors, if I can find few contributors, who can fix them, it would be a great contribution. Really looking forward on it!
 
 
 
