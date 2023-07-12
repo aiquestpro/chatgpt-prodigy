@@ -1,0 +1,39 @@
+.home-div {
+    display: block;
+    padding: 19px;
+    height: 350px !important;
+    overflow: auto;
+}
+
+.home-div ul li {
+    color: #1b91ff;
+}
+
+.home-div-wrapper {
+    display: block;
+    padding: 24px;
+}
+
+.home-pro {
+    color: darkcyan;
+    font-size: 14px;
+    font-weight: 800;
+    line-height: 17px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.home-space {
+    margin-top: 12px;
+    margin-right: 1px;
+}
+
+.video-span {
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0px;
+    text-align: left;
+    display: block;
+    margin-right: 13px;
+}
